@@ -56,8 +56,8 @@ body {
 
 .avatar-image {
   border: 3px #f9d53e double;
-  width: 200px;
-  height: 200px;
+  width: 225px;
+  height: 225px;
   padding: 0;
 }
 
@@ -95,7 +95,7 @@ h3 {
   background-color: #0B0C10;
   color: #fffafb;
   text-align: center;
-  padding: 25px 0;
+  padding: 40px 0 30px 0;
   font-family: "Open Sans", sans-serif;
 }
 
@@ -151,7 +151,7 @@ h3 {
 .carousel-item img {
   object-fit: cover;
   object-position: center;
-  height: 50vh;
+  height: 60vh;
   width: 100%;
   overflow: hidden;
 }
